@@ -1,4 +1,4 @@
-# التدقيق
+﻿# التدقيق
 
 1. [المنحى](copyediting#orientation)
 1. [إجراءات التحرير](copyediting#editorial-actions)
